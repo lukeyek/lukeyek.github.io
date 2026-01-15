@@ -1,5 +1,39 @@
 ---
-title: "reflection"
-format: html
+title: "Reflection on the Use of GenAI"
 ---
 
+## GenAI Tool Used
+
+For this assessment, I used **ChatGPT** as a Generative AI tool to support the development of my personal website using Quarto and GitHub Pages.
+
+## How GenAI Helped Me
+
+GenAI was particularly helpful in:
+- Guiding me through the setup of R, RStudio, Quarto, and GitHub Pages  
+- Explaining technical steps clearly when I encountered errors or confusion  
+- Helping to structure and refine written content for the website pages  
+
+For example, GenAI helped me transform rough notes into well-structured markdown sections suitable for a professional website.
+
+## Benefits of Using GenAI
+
+The main benefits of using GenAI include:
+- Faster problem-solving when dealing with unfamiliar tools  
+- Reduced time spent searching through documentation  
+- Improved clarity and organisation in my writing  
+
+This allowed me to focus more on understanding the concepts rather than struggling with formatting or syntax.
+
+## Challenges and Limitations
+
+One challenge was ensuring that I did not rely too heavily on the tool without understanding the underlying steps.  
+I had to carefully verify instructions and make sure that the final content accurately reflected my own learning and experience.
+
+## Future Use of GenAI
+
+In the future, I see GenAI as a valuable support tool for both study and work, particularly for:
+- Learning new technologies  
+- Drafting reports and documentation  
+- Troubleshooting technical issues  
+
+However, I believe it should be used responsibly alongside critical thinking and independent problem-solving.

@@ -3,12 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Luke Yek"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: project.qmd
+        text: Project
+      - href: dataviz.qmd
+        text: Data Visualization
+      - href: reflection.qmd
+        text: Reflection
 
 format:
   html:

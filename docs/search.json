@@ -1,17 +1,52 @@
 [
   {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "For this assessment, I used ChatGPT as a Generative AI tool to support the development of my personal website using Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used",
+    "href": "reflection.html#genai-tool-used",
+    "title": "Reflection on the Use of GenAI",
+    "section": "",
+    "text": "For this assessment, I used ChatGPT as a Generative AI tool to support the development of my personal website using Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "reflection.html#how-genai-helped-me",
+    "href": "reflection.html#how-genai-helped-me",
+    "title": "Reflection on the Use of GenAI",
+    "section": "How GenAI Helped Me",
+    "text": "How GenAI Helped Me\nGenAI was particularly helpful in: - Guiding me through the setup of R, RStudio, Quarto, and GitHub Pages\n- Explaining technical steps clearly when I encountered errors or confusion\n- Helping to structure and refine written content for the website pages\nFor example, GenAI helped me transform rough notes into well-structured markdown sections suitable for a professional website."
+  },
+  {
+    "objectID": "reflection.html#benefits-of-using-genai",
+    "href": "reflection.html#benefits-of-using-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Benefits of Using GenAI",
+    "text": "Benefits of Using GenAI\nThe main benefits of using GenAI include: - Faster problem-solving when dealing with unfamiliar tools\n- Reduced time spent searching through documentation\n- Improved clarity and organisation in my writing\nThis allowed me to focus more on understanding the concepts rather than struggling with formatting or syntax."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-limitations",
+    "href": "reflection.html#challenges-and-limitations",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Challenges and Limitations",
+    "text": "Challenges and Limitations\nOne challenge was ensuring that I did not rely too heavily on the tool without understanding the underlying steps.\nI had to carefully verify instructions and make sure that the final content accurately reflected my own learning and experience."
+  },
+  {
+    "objectID": "reflection.html#future-use-of-genai",
+    "href": "reflection.html#future-use-of-genai",
+    "title": "Reflection on the Use of GenAI",
+    "section": "Future Use of GenAI",
+    "text": "Future Use of GenAI\nIn the future, I see GenAI as a valuable support tool for both study and work, particularly for: - Learning new technologies\n- Drafting reports and documentation\n- Troubleshooting technical issues\nHowever, I believe it should be used responsibly alongside critical thinking and independent problem-solving."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: Applied Computing (FinTech), Singapore Institute of Technology\n\n\n\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "index.html#hello",
@@ -67,13 +102,41 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "This page describes one of the key projects I have worked on as part of my studies.\n\n\n(Insert your project title here)\n\n\n\nBriefly describe the motivation and context of the project.\n\n\n\n\nDescribe what you personally worked on\nTools or methods used\n\n\n\n\n\nWhat skills you developed\nWhat you learned from this project"
+    "text": "This page describes one of the key projects I have worked on as part of my studies, which focused on analysing data and communicating insights effectively through visualisation."
   },
   {
     "objectID": "project.html#project-overview",
     "href": "project.html#project-overview",
     "title": "Project",
     "section": "",
-    "text": "This page describes one of the key projects I have worked on as part of my studies.\n\n\n(Insert your project title here)\n\n\n\nBriefly describe the motivation and context of the project.\n\n\n\n\nDescribe what you personally worked on\nTools or methods used\n\n\n\n\n\nWhat skills you developed\nWhat you learned from this project"
+    "text": "This page describes one of the key projects I have worked on as part of my studies, which focused on analysing data and communicating insights effectively through visualisation."
+  },
+  {
+    "objectID": "project.html#project-title",
+    "href": "project.html#project-title",
+    "title": "Project",
+    "section": "Project Title",
+    "text": "Project Title\nMarketing Channel Performance Analysis"
+  },
+  {
+    "objectID": "project.html#background",
+    "href": "project.html#background",
+    "title": "Project",
+    "section": "Background",
+    "text": "Background\nThe objective of this project was to analyse how different marketing channels performed across a week and to identify patterns in user engagement.\nRather than relying on raw tables of numbers, the task emphasised the importance of using data visualisation to make comparisons clearer and insights more accessible to decision-makers."
+  },
+  {
+    "objectID": "project.html#my-role",
+    "href": "project.html#my-role",
+    "title": "Project",
+    "section": "My Role",
+    "text": "My Role\nIn this project, I was responsible for: - Preparing and organising the dataset for analysis\n- Designing an appropriate visualisation to represent multi-channel data\n- Interpreting the results and explaining the observed trends\nThe tools used included spreadsheet software and visualisation techniques commonly applied in data analytics."
+  },
+  {
+    "objectID": "project.html#key-learning-outcomes",
+    "href": "project.html#key-learning-outcomes",
+    "title": "Project",
+    "section": "Key Learning Outcomes",
+    "text": "Key Learning Outcomes\nThrough this project, I developed: - A stronger understanding of how to visualise quantitative data effectively\n- The ability to select suitable chart types for comparative analysis\n- Improved data interpretation and communication skills\nOverall, this project strengthened my appreciation of how clear visual design can significantly enhance data-driven decision-making."
   }
 ]

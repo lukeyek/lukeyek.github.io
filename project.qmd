@@ -4,25 +4,29 @@ title: "Project"
 
 ## Project Overview
 
-This page describes one of the key projects I have worked on as part of my studies.
+This page describes one of the key projects I have worked on as part of my studies, which focused on analysing data and communicating insights effectively through visualisation.
 
-### Project Title
+## Project Title
 
-**(Insert your project title here)**
+**Marketing Channel Performance Analysis**
 
-### Background
+## Background
 
-Briefly describe the motivation and context of the project.
+The objective of this project was to analyse how different marketing channels performed across a week and to identify patterns in user engagement.\
+Rather than relying on raw tables of numbers, the task emphasised the importance of using data visualisation to make comparisons clearer and insights more accessible to decision-makers.
 
-### My Role
+## My Role
 
--   Describe what you personally worked on
--   Tools or methods used
+In this project, I was responsible for: - Preparing and organising the dataset for analysis\
+- Designing an appropriate visualisation to represent multi-channel data\
+- Interpreting the results and explaining the observed trends
 
-### Key Learning Outcomes
+The tools used included spreadsheet software and visualisation techniques commonly applied in data analytics.
 
--   What skills you developed
--   What you learned from this project
+## Key Learning Outcomes
 
-```{}
-```
+Through this project, I developed: - A stronger understanding of how to visualise quantitative data effectively\
+- The ability to select suitable chart types for comparative analysis\
+- Improved data interpretation and communication skills
+
+Overall, this project strengthened my appreciation of how clear visual design can significantly enhance data-driven decision-making.
