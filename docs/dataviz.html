@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Home – temp_website</title>
+<title>Data Visualization – temp_website</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -93,7 +93,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -117,10 +117,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#hello" id="toc-hello" class="nav-link active" data-scroll-target="#hello">Hello 👋</a>
-  <ul class="collapse">
-  <li><a href="#highlights" id="toc-highlights" class="nav-link" data-scroll-target="#highlights">Highlights</a></li>
-  </ul></li>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#what-is-visualised" id="toc-what-is-visualised" class="nav-link" data-scroll-target="#what-is-visualised">What is visualised?</a></li>
+  <li><a href="#key-observations" id="toc-key-observations" class="nav-link" data-scroll-target="#key-observations">Key observations</a></li>
+  <li><a href="#why-i-chose-this-chart-type" id="toc-why-i-chose-this-chart-type" class="nav-link" data-scroll-target="#why-i-chose-this-chart-type">Why I chose this chart type</a></li>
+  <li><a href="#story-behind-this-task" id="toc-story-behind-this-task" class="nav-link" data-scroll-target="#story-behind-this-task">Story behind this task</a></li>
   </ul>
 </nav>
     </div>
@@ -129,7 +130,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Home</h1>
+<h1 class="title">Data Visualization</h1>
 </div>
 
 
@@ -146,22 +147,36 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="hello" class="level2">
-<h2 class="anchored" data-anchor-id="hello">Hello 👋</h2>
-<p>I’m <strong>Luke Yek</strong>, an SIT student interested in <strong>data analytics, web technologies, and applied learning projects</strong>.</p>
-<section id="highlights" class="level3">
-<h3 class="anchored" data-anchor-id="highlights">Highlights</h3>
-<ul>
-<li><strong>Course / programme:</strong> Applied Computing (FinTech), Singapore Institute of Technology</li>
-</ul>
-<!-- -->
-<ul>
-<li><strong>Interests:</strong> Data visualization, automation, GenAI</li>
-<li><strong>What this site shows:</strong> My projects, a visualization, and reflection on using GenAI</li>
-</ul>
-
-
+<section id="overview" class="level2">
+<h2 class="anchored" data-anchor-id="overview">Overview</h2>
+<p>The chart below shows the <strong>daily performance of different marketing channels</strong> across a week (Mon–Sun).<br>
+Each horizontal bar represents one day, and the bar is divided into five channels: <strong>Direct, Mail Ad, Affiliate Ad, Video Ad, and Search Engine</strong>.</p>
+<p><img src="imgs/dataviz.webp" class="img-fluid" style="width:90.0%"></p>
 </section>
+<section id="what-is-visualised" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-visualised">What is visualised?</h2>
+<p>This is a <strong>stacked horizontal bar chart</strong> where the numeric labels on each segment represent the value contributed by each channel on that day.<br>
+By stacking the channels, the chart also shows the <strong>total daily volume</strong> (overall bar length) while still allowing us to see how the total is made up.</p>
+</section>
+<section id="key-observations" class="level2">
+<h2 class="anchored" data-anchor-id="key-observations">Key observations</h2>
+<ul>
+<li><strong>Search Engine</strong> contributes the <strong>largest share</strong> on every day, and it increases noticeably towards the weekend.</li>
+<li>The <strong>overall total</strong> is higher on <strong>Saturday and Sunday</strong>, suggesting stronger engagement or conversions on weekends.</li>
+<li>Channels like <strong>Mail Ad</strong> and <strong>Affiliate Ad</strong> contribute smaller portions, but their contribution remains fairly consistent across the week.</li>
+</ul>
+</section>
+<section id="why-i-chose-this-chart-type" class="level2">
+<h2 class="anchored" data-anchor-id="why-i-chose-this-chart-type">Why I chose this chart type</h2>
+<p>I chose a stacked bar chart because it allows two comparisons at once: 1. <strong>Across days:</strong> which day has a higher total. 2. <strong>Within a day:</strong> how much each channel contributes to that day’s total.</p>
+<p>Using a <strong>horizontal layout</strong> also improves readability of day labels and makes the segment values easier to scan.</p>
+</section>
+<section id="story-behind-this-task" class="level2">
+<h2 class="anchored" data-anchor-id="story-behind-this-task">Story behind this task</h2>
+<p>This visualisation was created to communicate marketing performance clearly and quickly.<br>
+Instead of listing numbers in a table, the chart makes it obvious which channel drives most results and which days tend to perform better, supporting better decisions on where to focus effort and budget.</p>
+
+
 </section>
 
 </main> <!-- /main -->

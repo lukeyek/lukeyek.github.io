@@ -8,6 +8,9 @@ I’m **Luke Yek**, an SIT student interested in **data analytics, web technolog
 
 ### Highlights
 
--   **Course / programme:** *(fill in)*
+-   **Course / programme:** Applied Computing (FinTech), Singapore Institute of Technology
+
+<!-- -->
+
 -   **Interests:** Data visualization, automation, GenAI
 -   **What this site shows:** My projects, a visualization, and reflection on using GenAI

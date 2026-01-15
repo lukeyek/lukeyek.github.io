@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: (fill in)\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
+    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: Applied Computing (FinTech), Singapore Institute of Technology\n\n\n\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
   },
   {
     "objectID": "about.html",
@@ -18,6 +18,62 @@
     "href": "index.html#hello",
     "title": "Home",
     "section": "",
-    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: (fill in)\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
+    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: Applied Computing (FinTech), Singapore Institute of Technology\n\n\n\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "The chart below shows the daily performance of different marketing channels across a week (Mon–Sun).\nEach horizontal bar represents one day, and the bar is divided into five channels: Direct, Mail Ad, Affiliate Ad, Video Ad, and Search Engine."
+  },
+  {
+    "objectID": "dataviz.html#overview",
+    "href": "dataviz.html#overview",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "The chart below shows the daily performance of different marketing channels across a week (Mon–Sun).\nEach horizontal bar represents one day, and the bar is divided into five channels: Direct, Mail Ad, Affiliate Ad, Video Ad, and Search Engine."
+  },
+  {
+    "objectID": "dataviz.html#what-is-visualised",
+    "href": "dataviz.html#what-is-visualised",
+    "title": "Data Visualization",
+    "section": "What is visualised?",
+    "text": "What is visualised?\nThis is a stacked horizontal bar chart where the numeric labels on each segment represent the value contributed by each channel on that day.\nBy stacking the channels, the chart also shows the total daily volume (overall bar length) while still allowing us to see how the total is made up."
+  },
+  {
+    "objectID": "dataviz.html#key-observations",
+    "href": "dataviz.html#key-observations",
+    "title": "Data Visualization",
+    "section": "Key observations",
+    "text": "Key observations\n\nSearch Engine contributes the largest share on every day, and it increases noticeably towards the weekend.\nThe overall total is higher on Saturday and Sunday, suggesting stronger engagement or conversions on weekends.\nChannels like Mail Ad and Affiliate Ad contribute smaller portions, but their contribution remains fairly consistent across the week."
+  },
+  {
+    "objectID": "dataviz.html#why-i-chose-this-chart-type",
+    "href": "dataviz.html#why-i-chose-this-chart-type",
+    "title": "Data Visualization",
+    "section": "Why I chose this chart type",
+    "text": "Why I chose this chart type\nI chose a stacked bar chart because it allows two comparisons at once: 1. Across days: which day has a higher total. 2. Within a day: how much each channel contributes to that day’s total.\nUsing a horizontal layout also improves readability of day labels and makes the segment values easier to scan."
+  },
+  {
+    "objectID": "dataviz.html#story-behind-this-task",
+    "href": "dataviz.html#story-behind-this-task",
+    "title": "Data Visualization",
+    "section": "Story behind this task",
+    "text": "Story behind this task\nThis visualisation was created to communicate marketing performance clearly and quickly.\nInstead of listing numbers in a table, the chart makes it obvious which channel drives most results and which days tend to perform better, supporting better decisions on where to focus effort and budget."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This page describes one of the key projects I have worked on as part of my studies.\n\n\n(Insert your project title here)\n\n\n\nBriefly describe the motivation and context of the project.\n\n\n\n\nDescribe what you personally worked on\nTools or methods used\n\n\n\n\n\nWhat skills you developed\nWhat you learned from this project"
+  },
+  {
+    "objectID": "project.html#project-overview",
+    "href": "project.html#project-overview",
+    "title": "Project",
+    "section": "",
+    "text": "This page describes one of the key projects I have worked on as part of my studies.\n\n\n(Insert your project title here)\n\n\n\nBriefly describe the motivation and context of the project.\n\n\n\n\nDescribe what you personally worked on\nTools or methods used\n\n\n\n\n\nWhat skills you developed\nWhat you learned from this project"
   }
 ]
