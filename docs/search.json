@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: (fill in)\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Home",
+    "section": "",
+    "text": "I’m Luke Yek, an SIT student interested in data analytics, web technologies, and applied learning projects.\n\n\n\nCourse / programme: (fill in)\nInterests: Data visualization, automation, GenAI\nWhat this site shows: My projects, a visualization, and reflection on using GenAI"
   }
 ]

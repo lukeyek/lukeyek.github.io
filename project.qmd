@@ -1,0 +1,28 @@
+---
+title: "Project"
+---
+
+## Project Overview
+
+This page describes one of the key projects I have worked on as part of my studies.
+
+### Project Title
+
+**(Insert your project title here)**
+
+### Background
+
+Briefly describe the motivation and context of the project.
+
+### My Role
+
+-   Describe what you personally worked on
+-   Tools or methods used
+
+### Key Learning Outcomes
+
+-   What skills you developed
+-   What you learned from this project
+
+```{}
+```

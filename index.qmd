@@ -1,11 +1,13 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+## Hello 👋
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I’m **Luke Yek**, an SIT student interested in **data analytics, web technologies, and applied learning projects**.
 
-```{r}
-1 + 1
-```
+### Highlights
+
+-   **Course / programme:** *(fill in)*
+-   **Interests:** Data visualization, automation, GenAI
+-   **What this site shows:** My projects, a visualization, and reflection on using GenAI
